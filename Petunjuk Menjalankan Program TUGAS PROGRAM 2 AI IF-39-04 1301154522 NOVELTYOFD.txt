@@ -1,0 +1,24 @@
+Petunjuk menjalankan program :
+
+Proses Download
+1.IDE Code::Blocks beralamat di http://www.codeblocks.org.
+2.Untuk mulai download aplikasi Code::Blocks, klik menu “Download”, lalu pilih “Download the binary release”.
+3.Di halaman berikutnya pilih sistem operasi dimana Code::Blocks akan diinstall. Jika menggunakan Windows, klik link “Windows XP / Vista / 7 / 8.x / 10”. Apabila anda menggunakan sistem operasi Linux atau Mac OS, link downloadnya juga tersedia.
+4. Terdapat beberapa pilihan aplikasi Code::Blocks untuk sistem operasi Windows. Kali ini pilih “codeblocks-16.01mingw-setup.exe”, dengan cara klik link “download dari Sourceforge.net” atau “FossHub” (bisa yang mana saja). Jika tidak ada masalah, proses download akan berjalan.
+5. Saat tutorial ini dibuat, aplikasi Code::Blocks terbaru adalah versi 16.01. File instalasi codeblocks-16.01mingw-setup.exe berukuran sekitar 80MB.
+
+Proses Instalasi
+1) Double klik file codeblocks-16.01mingw-setup.exe yang baru saja di download, Jendela awal proses instalasi akan tampil.
+2) Klik tombol “Next” untuk lanjut.
+3) Di halaman “License Aggrement”, klik tombol “I Agree”.
+4) Halaman berikutnya adalah “Choose Components”, biarkan pilihan default (seluruh pilihan akan tercentang), lalu klik tombol “Next”.
+5) Jendela “Choose Install Location” berguna untuk mengubah lokasi instalasi Code::Blocks. Disini saya akan membiarkan pilihan default. Artinya kode program Code::Blocks akan terinstall di “C:\Program Files (x86)\CodeBlocks”.
+6) Klik Tombol “Install” dan proses instalasi akan berlangsung beberapa saat.
+7) Setelah proses instalasi selesai, akan tampil jendela konfirmasi “Do you want to run Code::Blocks now?” Klik Yes agar setelah proses instalasi, IDE Code::Blocks langsung tampil. 
+8) Code Block siap digunakan.
+Apabila anda mendapati jendela tambahan, pilih saja settingan default, misalnya pada saat memilih compiler yang diinstall (GNU CCG Compiler) dan File Association.
+
+Cara menjalankan program
+o Buka CodeBlocks
+o Jika telah terbuka, tekan ctrl+o lalu pilih file yang ingin dibuka
+o Klik tombol run 
